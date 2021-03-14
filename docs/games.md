@@ -13,6 +13,7 @@ sidebar_label: Games
 - [The Big List of DRM-Free Games on Steam](https://www.pcgamingwiki.com/wiki/The_Big_List_of_DRM-Free_Games_on_Steam) - List all games on Steam which are DRM-free.
 - [GOD scraped URLs](https://drive.google.com/file/d/17MB0gCcCMr3QqE_CgJkaxmdXtZk61TdZ/view) - All DDL links for games listed on the now-dead GoodOldDownloads site.
 - [Free GOG PC Games](http://freegogpcgames.com/) - Magnet links site to download games from GOG.
+- [All Repacks PC Games](http://gamerpeace.com/) - Magnet links site to download games from All Repackers.
 - [cs.rin.ru](https://cs.rin.ru/) - Popular gaming piracy forum.
 - [CDRomance](https://cdromance.com/) - PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [redump.org](http://redump.org/) - Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
